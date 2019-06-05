@@ -288,7 +288,8 @@
     "replacement": "",
     "serialNumber": 30,
     "useTo": ""
-  }, {
+  },
+  {
     "enable": false,
     "id": 136,
     "isRegex": true,
